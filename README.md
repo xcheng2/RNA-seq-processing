@@ -1,1 +1,1 @@
-Codes and Scripts for RNA-seq processing
+Codes and Scripts for RNA-seq Processing
